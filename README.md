@@ -1,0 +1,3 @@
+# Pastane Ürün Maliyetlendirme Sistemi
+
+Bu proje ile bir pastanenin üretiiği ürünlerin maliyetlendirme takibini yapabilmesi modellenmiştir. Bu sistem ile kullanıcı malzemelerinin stok takibini yapabilecek, üreteceği ürünlerin kaydını yapıp harcayacağı malzemelerin miktarına göre bir maliyet hesabı görecek ve ürettiği üründen elde edeceği kazancını da görebilecektir. Kulalnıcı ayrıca kasa takibini de yapabilecektir.
